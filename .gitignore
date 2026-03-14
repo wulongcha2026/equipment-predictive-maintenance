@@ -1,0 +1,7 @@
+# 项目忽略文件
+*.pyc
+__pycache__/
+.env
+.DS_Store
+node_modules/
+*.log
